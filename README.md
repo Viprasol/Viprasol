@@ -1,76 +1,128 @@
-<h1 align="center">Viprasol Tech</h1>
-
 <p align="center">
-  <strong>Fintech Experts. Full-Stack Builders.</strong><br>
-  From algorithmic trading bots to enterprise web applications — we build technology that performs.
+  <a href="https://viprasol.com">
+    <img src="assets/banner.svg" width="100%" alt="Viprasol Tech. Your strategy. Engineered to work. Trading software, quant engineering and B2B SaaS.">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://viprasol.com">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/viprasol/">💼 LinkedIn</a> •
-  <a href="https://twitter.com/viprasol">🐦 X / Twitter</a> •
-  <a href="https://instagram.com/viprasol">📸 Instagram</a> •
-  <a href="https://www.upwork.com/freelancers/pravi">💚 Upwork</a>
+  <a href="https://viprasol.com"><img src="https://img.shields.io/badge/viprasol.com-25342f?style=for-the-badge&logo=googlechrome&logoColor=d9ae58" alt="Website: viprasol.com"></a>
+  <a href="https://www.upwork.com/freelancers/pravi"><img src="https://img.shields.io/badge/Upwork-25342f?style=for-the-badge&logo=upwork&logoColor=d9ae58" alt="Upwork"></a>
+  <a href="https://www.linkedin.com/in/viprasol/"><img src="https://img.shields.io/badge/LinkedIn-25342f?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://twitter.com/viprasol"><img src="https://img.shields.io/badge/X-25342f?style=for-the-badge&logo=x&logoColor=d9ae58" alt="X (Twitter)"></a>
+  <a href="https://instagram.com/viprasol"><img src="https://img.shields.io/badge/Instagram-25342f?style=for-the-badge&logo=instagram&logoColor=d9ae58" alt="Instagram"></a>
+  <a href="https://t.me/viprasol_help"><img src="https://img.shields.io/badge/Telegram-25342f?style=for-the-badge&logo=telegram&logoColor=d9ae58" alt="Telegram"></a>
+  <a href="https://wa.me/919633652112"><img src="https://img.shields.io/badge/WhatsApp-25342f?style=for-the-badge&logo=whatsapp&logoColor=d9ae58" alt="WhatsApp"></a>
+  <a href="https://www.tradingview.com/u/viprasol/"><img src="https://img.shields.io/badge/TradingView-25342f?style=for-the-badge&logo=tradingview&logoColor=d9ae58" alt="TradingView"></a>
 </p>
 
----
+<p align="center">
+  <b>Viprasol Tech</b> is an independent engineering company based in Haryana, India.<br>
+  We build custom trading bots, quant systems and software platforms, from your first rules to a system you can run.
+</p>
 
-### 🏢 About Us
+<table align="center">
+  <tr>
+    <td align="center" width="170"><h3>100+</h3>projects delivered</td>
+    <td align="center" width="170"><h3>82+</h3>clients</td>
+    <td align="center" width="170"><h3>15+</h3>countries</td>
+    <td align="center" width="170"><h3><a href="https://www.upwork.com/freelancers/pravi">5.0★</a></h3>on Upwork</td>
+  </tr>
+</table>
 
-**Viprasol Tech Private Limited** is a registered Indian technology company focused on fintech solutions and full-stack development for global clients. We specialize in building algorithmic trading systems, expert advisors, and custom trading platforms that help traders and institutions automate their strategies with precision.
+## 01 / What we build
 
-Beyond trading, we deliver enterprise-grade web applications, AI solutions, and cloud infrastructure for businesses across various industries.
+| Area | What you get | Built with |
+|------|--------------|------------|
+| **[Trading software and automation](https://viprasol.com/services/trading-software/)** | MT4/MT5 Expert Advisors, TradingView indicators and strategies, crypto and prediction-market bots, signals connected to your broker | MQL4, MQL5, Pine Script, Python, broker and exchange APIs |
+| **[Quantitative engineering](https://viprasol.com/services/quant-development/)** | Research pipelines and backtests with realistic fees, slippage and drawdown, plus risk and position sizing | Python, vectorised backtesting, paper-trading engines |
+| **AI agents and LLM tooling** | MCP servers, agent skills, regression tests and guardrails for agents that touch real systems | Python, TypeScript, MCP |
+| **[B2B SaaS and platforms](https://viprasol.com/services/saas-development/)** | Account access, billing, reporting and integrations for the product your team or customers use every day | Next.js, React, Node.js, PostgreSQL, Stripe |
 
-- 📍 Based in Haryana, India
-- 🌍 Serving clients in **15+ countries**
-- 👥 Trusted by **82+ clients worldwide**
-- 🚀 **100+ projects** delivered
-- ⭐ **4.9★** average client rating
+## 02 / Open source you can inspect
 
----
+Our engineering lives on **[@Viprasol-Tech](https://github.com/Viprasol-Tech)**, with 250+ public repositories. A few places to start:
 
-### ⚡ What We Build
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Viprasol-Tech/kalshi-trading-bot">kalshi-trading-bot</a></b> &nbsp;<sub>Python</sub><br>
+      Algorithmic trading framework for Kalshi prediction markets: RSA-PSS auth, strategy engine, backtester and risk manager. Dry-run by default.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Viprasol-Tech/mt5-expert-advisor">mt5-expert-advisor</a></b> &nbsp;<sub>MQL5</sub><br>
+      MetaTrader 5 Expert Advisor: EMA crossover with risk-based lot sizing and ATR stops. The MT4 version is <a href="https://github.com/Viprasol-Tech/mt4-expert-advisor">mt4-expert-advisor</a>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Viprasol-Tech/pine-script-strategy">pine-script-strategy</a></b> &nbsp;<sub>Pine Script v6</sub><br>
+      TradingView strategy: EMA crossover with a higher-timeframe trend filter and ATR stops.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Viprasol-Tech/edgehunt">edgehunt</a></b> &nbsp;<sub>Python</sub><br>
+      Finds the edge in prediction markets: cross-venue arbitrage, fee-adjusted EV and Kelly sizing in one command, across Kalshi and Polymarket.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Viprasol-Tech/marketsmith">marketsmith</a></b> &nbsp;<sub>Python · MCP</sub><br>
+      MCP server that gives an AI agent prediction-market search, odds, fee-adjusted arbitrage, EV and Kelly sizing.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Viprasol-Tech/agentcheck">agentcheck</a></b> &nbsp;<sub>TypeScript</sub><br>
+      Regression testing for AI agents: snapshot tool calls, diff in CI and fail on regressions. Ships as a GitHub Action.
+    </td>
+  </tr>
+</table>
 
-| Area | Technologies |
-|------|-------------|
-| **Trading Software & Algo Bots** | MT4/MT5 Expert Advisors, TradingView Pine Scripts, Custom Trading Bots, Strategy Backtesting |
-| **AI & Machine Learning** | Trading Algorithms, Predictive Models, NLP, LLM Integration, Computer Vision |
-| **Web Development** | React, Next.js, Node.js, Python, TypeScript, REST APIs |
-| **SaaS Development** | Multi-tenancy, Stripe Billing, Auth Systems, Dashboard UIs |
-| **Data & Analytics** | ETL Pipelines, Apache Airflow, PostgreSQL, BI Dashboards |
-| **Cloud & DevOps** | Docker, Kubernetes, CI/CD, AWS, Monitoring |
+Also worth a look: [awesome-trading-bots](https://github.com/Viprasol-Tech/awesome-trading-bots), our curated list of open-source trading bots, and [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review), an agent skill that checks backtests for look-ahead bias, overfitting and risk of ruin.
 
----
+On this account: [mt4-lot-size-calculator](https://github.com/Viprasol/mt4-lot-size-calculator), a free MT4 indicator for risk-based lot sizing.
 
-### 📂 Open Source Projects
+**[Browse all repositories →](https://github.com/Viprasol-Tech?tab=repositories)**
 
-Here are some of our open-source tools and starter templates:
+## 03 / How we work
 
-| Repository | Description |
-|-----------|-------------|
-| [mt4-lot-size-calculator](https://github.com/Viprasol/mt4-lot-size-calculator) | Free MT4 indicator for risk-based lot size calculation |
-| [mt5-trailing-stop-ea](https://github.com/Viprasol/mt5-trailing-stop-ea) | Free MT5 Expert Advisor with dynamic trailing stop |
-| [ai-agent-system-starter](https://github.com/Viprasol/ai-agent-system-starter) | Production-ready multi-agent AI system template |
-| [saas-mvp-boilerplate](https://github.com/Viprasol/saas-mvp-boilerplate) | Full-stack SaaS boilerplate with Next.js & Stripe |
-| [nodejs-api-starter](https://github.com/Viprasol/nodejs-api-starter) | Production Node.js REST API starter with Express & Prisma |
-| [forex-trading-journal-python](https://github.com/Viprasol/forex-trading-journal-python) | Automated Forex trading journal with MT4/MT5 import |
-| [react-fintech-dashboard](https://github.com/Viprasol/react-fintech-dashboard) | Open-source React fintech dashboard with charts & portfolio tracker |
-| [data-pipeline-etl-starter](https://github.com/Viprasol/data-pipeline-etl-starter) | Production ETL pipeline starter with Airflow & dbt |
-| [llm-trading-signal-bot](https://github.com/Viprasol/llm-trading-signal-bot) | AI-powered trading signal bot using LLMs |
+1. **Understand.** Your entry and exit rules, position sizing, broker and the decisions you still make by hand become a brief both sides can work from.
+2. **Plan.** We map where data comes from, how orders are handled and what happens when a connection fails. You review scope and milestones before development starts.
+3. **Build and review.** The software takes shape through working milestones you can try, so a misunderstanding never becomes a surprise at handover.
+4. **Test against the brief.** Historical testing, demo execution, integration checks and failure scenarios, with a plain account of what was tested and what still needs watching live.
+5. **Deploy and hand over.** Configuration, documentation and access, plus any monitoring or maintenance you want in place.
 
----
+[See our approach →](https://viprasol.com/approach/) &nbsp;·&nbsp; [Case studies →](https://viprasol.com/case-studies/)
 
-### 📬 Get In Touch
+## 04 / Stack
 
-Have a project idea or need a custom solution? Let's talk.
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nodejs,nestjs,express,fastapi,postgres,redis,tailwind,docker,kubernetes,terraform,githubactions,aws&perline=8" alt="Python, TypeScript, React, Next.js, Node.js, NestJS, Express, FastAPI, PostgreSQL, Redis, Tailwind CSS, Docker, Kubernetes, Terraform, GitHub Actions, AWS">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MQL4-25342f?style=flat-square" alt="MQL4">
+  <img src="https://img.shields.io/badge/MQL5-25342f?style=flat-square" alt="MQL5">
+  <img src="https://img.shields.io/badge/MetaTrader%204%20%2F%205-25342f?style=flat-square" alt="MetaTrader 4 and 5">
+  <img src="https://img.shields.io/badge/Pine%20Script%20v6-25342f?style=flat-square&logo=tradingview&logoColor=d9ae58" alt="Pine Script v6">
+  <img src="https://img.shields.io/badge/Broker%20%26%20exchange%20APIs-25342f?style=flat-square" alt="Broker and exchange APIs">
+  <img src="https://img.shields.io/badge/MCP-25342f?style=flat-square" alt="Model Context Protocol">
+</p>
 
-- 🌐 **Website:** [viprasol.com](https://viprasol.com)
-- 📧 **Email:** support@viprasol.com
-- 💼 **LinkedIn:** [linkedin.com/in/viprasol](https://www.linkedin.com/in/viprasol/)
-- 💚 **Upwork:** [upwork.com/freelancers/pravi](https://www.upwork.com/freelancers/pravi)
+## 05 / Start a conversation
+
+Bring us the workflow you want to improve. You leave with a clear next step.
+
+<p>
+  <a href="https://viprasol.com/contact/"><img src="https://img.shields.io/badge/Discuss%20your%20project-8b6b2f?style=for-the-badge" alt="Discuss your project"></a>
+  <a href="mailto:support@viprasol.com"><img src="https://img.shields.io/badge/support%40viprasol.com-25342f?style=for-the-badge&logo=gmail&logoColor=d9ae58" alt="Email support@viprasol.com"></a>
+</p>
+
+- Website: [viprasol.com](https://viprasol.com)
+- Email: [support@viprasol.com](mailto:support@viprasol.com)
+- Telegram: [t.me/viprasol_help](https://t.me/viprasol_help) · WhatsApp: [+91 96336 52112](https://wa.me/919633652112)
+- Upwork: [upwork.com/freelancers/pravi](https://www.upwork.com/freelancers/pravi) · LinkedIn: [in/viprasol](https://www.linkedin.com/in/viprasol/)
+- Open source: [@Viprasol-Tech](https://github.com/Viprasol-Tech) · TradingView: [@viprasol](https://www.tradingview.com/u/viprasol/)
 
 ---
 
 <p align="center">
-  <em>We build technology that performs. Let's create something great together.</em>
+  <sub>Trading involves risk. Historical results do not guarantee future performance.<br>
+  © Viprasol Tech Private Limited</sub>
 </p>
