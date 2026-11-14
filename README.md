@@ -55,8 +55,8 @@ Our engineering lives on **[@Viprasol-Tech](https://github.com/Viprasol-Tech)**,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/Viprasol-Tech/pine-script-strategy">pine-script-strategy</a></b> &nbsp;<sub>Pine Script v6</sub><br>
-      TradingView strategy: EMA crossover with a higher-timeframe trend filter and ATR stops.
+      <b><a href="https://github.com/Viprasol-Tech/tradingview-indicators">tradingview-indicators</a></b> &nbsp;<sub>Pine Script v6</sub><br>
+      The source of 29 indicators we publish on TradingView, where they have 14,300+ boosts: Sniper Confluence, Elite Flow Pro, Liquidity Hunt Pro and more.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Viprasol-Tech/edgehunt">edgehunt</a></b> &nbsp;<sub>Python</sub><br>
@@ -75,7 +75,7 @@ Our engineering lives on **[@Viprasol-Tech](https://github.com/Viprasol-Tech)**,
   </tr>
 </table>
 
-Also worth a look: [awesome-trading-bots](https://github.com/Viprasol-Tech/awesome-trading-bots), our curated list of open-source trading bots, and [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review), an agent skill that checks backtests for look-ahead bias, overfitting and risk of ruin.
+Also worth a look: [awesome-trading-bots](https://github.com/Viprasol-Tech/awesome-trading-bots), our curated list of open-source trading bots, [pine-script-strategy](https://github.com/Viprasol-Tech/pine-script-strategy), a TradingView strategy template with a higher-timeframe trend filter and ATR stops, and [trading-strategy-review](https://github.com/Viprasol-Tech/trading-strategy-review), an agent skill that checks backtests for look-ahead bias, overfitting and risk of ruin.
 
 On this account: [mt4-lot-size-calculator](https://github.com/Viprasol/mt4-lot-size-calculator), a free MT4 indicator for risk-based lot sizing.
 
