@@ -40,7 +40,7 @@
 
 ## 02 / Open source you can inspect
 
-Our engineering lives on **[@Viprasol-Tech](https://github.com/Viprasol-Tech)**, with 250+ public repositories. A few places to start:
+Our engineering lives on **[@Viprasol-Tech](https://github.com/Viprasol-Tech)**, with 140+ public repositories. A few places to start:
 
 <table>
   <tr>
