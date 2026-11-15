@@ -22,7 +22,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="170"><h3>100+</h3>projects delivered</td>
+    <td align="center" width="170"><h3>1000+</h3>projects delivered</td>
     <td align="center" width="170"><h3>82+</h3>clients</td>
     <td align="center" width="170"><h3>15+</h3>countries</td>
     <td align="center" width="170"><h3><a href="https://www.upwork.com/freelancers/pravi">5.0★</a></h3>on Upwork</td>
