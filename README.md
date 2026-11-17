@@ -13,6 +13,7 @@
   <a href="https://t.me/viprasol_help"><img src="https://img.shields.io/badge/Telegram-25342f?style=for-the-badge&logo=telegram&logoColor=d9ae58" alt="Telegram"></a>
   <a href="https://wa.me/919633652112"><img src="https://img.shields.io/badge/WhatsApp-25342f?style=for-the-badge&logo=whatsapp&logoColor=d9ae58" alt="WhatsApp"></a>
   <a href="https://www.tradingview.com/u/viprasol/"><img src="https://img.shields.io/badge/TradingView-25342f?style=for-the-badge&logo=tradingview&logoColor=d9ae58" alt="TradingView"></a>
+  <a href="https://www.mql5.com/en/users/viprasol"><img src="https://img.shields.io/badge/MQL5-25342f?style=for-the-badge" alt="MQL5"></a>
 </p>
 
 <p align="center">
@@ -118,7 +119,7 @@ Bring us the workflow you want to improve. You leave with a clear next step.
 - Email: [support@viprasol.com](mailto:support@viprasol.com)
 - Telegram: [t.me/viprasol_help](https://t.me/viprasol_help) · WhatsApp: [+91 96336 52112](https://wa.me/919633652112)
 - Upwork: [upwork.com/freelancers/pravi](https://www.upwork.com/freelancers/pravi) · LinkedIn: [in/viprasol](https://www.linkedin.com/in/viprasol/)
-- Open source: [@Viprasol-Tech](https://github.com/Viprasol-Tech) · TradingView: [@viprasol](https://www.tradingview.com/u/viprasol/)
+- Open source: [@Viprasol-Tech](https://github.com/Viprasol-Tech) · TradingView: [@viprasol](https://www.tradingview.com/u/viprasol/) · MQL5: [viprasol](https://www.mql5.com/en/users/viprasol)
 
 ---
 
